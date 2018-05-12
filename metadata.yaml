@@ -1,0 +1,59 @@
+_repo: Aristophane--Traduction-nouvelle-tome-second_20664
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Sully Prudhomme
+    aliases:
+    - Prudhomme, Rene-Francois-Armand Sully
+    - Prudhomme, René-François-Armand Sully
+    - Prudhomme, Sully
+    birthdate: 1839
+    deathdate: 1907
+    gutenberg_agent_id: '7695'
+    url: http://www.gutenberg.org/2009/agents/7695
+    wikipedia: http://fr.wikipedia.org/wiki/Sully_Prudhomme
+  translator:
+    agent_name: Talbot, Eugène
+    aliases:
+    - Talbot, E. (Eugène)
+    - Talbot, Eugene
+    birthdate: 1814
+    deathdate: 1894
+    gutenberg_agent_id: '8452'
+    url: http://www.gutenberg.org/2009/agents/8452
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aristophanes
+    aliases:
+    - Ἀριστοφάνης
+    - Αριστοφάνης
+    birthdate: -450
+    deathdate: -388
+    gutenberg_agent_id: '965'
+    url: http://www.gutenberg.org/2009/agents/965
+    wikipedia: http://en.wikipedia.org/wiki/Aristophanes
+description: ''
+gutenberg_bookshelf:
+- Classical Antiquity
+- FR Théâtre
+gutenberg_issued: '2007-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20664'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aristophanes -- Translations into French'
+- !lcsh 'Comedies'
+- !lcsh 'Athens (Greece) -- Drama'
+- !lcc 'PA'
+tableOfContents: Les oiseaux -- Lysistrata -- Les Thesmophoriazouses, ou Les femmes
+  aux fêtes de Demeter -- Les grenouilles -- Les Ekklesiazouses, ou l'Assemblée des
+  femmes -- Ploutos.
+title: Aristophane; Traduction nouvelle, tome second
+url: http://www.gutenberg.org/ebooks/20664
